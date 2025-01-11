@@ -2,6 +2,6 @@
   "cluster": {
     "owner": "test2",
     "name": "prod",
-    "address": "https://1.2.3.4"
+    "path":"yml"
   }
 }
