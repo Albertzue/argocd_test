@@ -1,0 +1,7 @@
+{
+  "cluster": {
+    "owner": "test1",
+    "name": "dev",
+    "address": "https://1.2.3.4"
+  }
+}
